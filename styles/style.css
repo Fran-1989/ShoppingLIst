@@ -1,0 +1,19 @@
+body {
+	background-color: #EEE8AA;
+}
+
+h1 {
+	font-family: 'Abhaya Libre', serif;
+}
+
+.mainForm {
+	margin-top: 50px;
+}	
+
+.mainList {
+	margin-top: 40px;
+}
+
+.buttonDelete {
+	margin-bottom: -10px;
+}
